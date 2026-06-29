@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "title": "Example Pattern",
+    "file_path": "data/pattern_001.html",
+    "tags": ["example", "pattern", "history"],
+    "full_text": "This is a placeholder for the searchable content of your first document."
+  }
+]
